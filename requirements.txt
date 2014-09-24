@@ -1,0 +1,2 @@
+pyhue==0.7.6
+requests==2.2.1
