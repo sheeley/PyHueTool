@@ -4,7 +4,7 @@ from json import dumps
 
 URL = 'http://www.meethue.com/api/nupnp'
 USER_NAME = 'retailinnovation'
-ON_DICT = {"on": True, "bri": 255, "sat": 255, "hue": 0}
+ON_DICT = {"on": True, "bri": 255, "sat": 255, "hue": 0, "alert": "lselect"}
 OFF_DICT = {"on": False}
 
 
